@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423907076965",
+    "firebase_url": "https://mobil-odev-c0519-default-rtdb.firebaseio.com",
+    "project_id": "mobil-odev-c0519",
+    "storage_bucket": "mobil-odev-c0519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423907076965:android:f91016865f030406ac4f8c",
+        "android_client_info": {
+          "package_name": "com.mobilodev111.bilisimterimlerisozlugu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423907076965-k9bd9mpjn8g2pomjbuphlio50e8p2mbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR74D3uhnMKCMlX8xuccM4K8dHMugxx44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423907076965-k9bd9mpjn8g2pomjbuphlio50e8p2mbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
